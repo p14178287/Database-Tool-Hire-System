@@ -4,10 +4,10 @@ int main ()
 char o;
 int a, b;
 
-printf("enter choice\n");
+printf("enter choices\n");
 scanf("%c", &a);
 
-/*int add (a, b){
+int add (a, b){
 return a + b;
 }
 
@@ -18,5 +18,4 @@ return a - b;
 int multiply(a, b){
 return a * b;
 }
-*/
 
