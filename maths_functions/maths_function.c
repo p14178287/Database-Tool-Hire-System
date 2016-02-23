@@ -1,5 +1,5 @@
+//This is the line causing issue in the conflict branch
 
-	//this is the line causing conflicts
 #include <stdio>
 int main ()
 {
