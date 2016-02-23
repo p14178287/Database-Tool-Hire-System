@@ -1,3 +1,6 @@
+
+
+
 #include <stdio>
 int main ()
 {
@@ -17,5 +20,21 @@ return a - b;
 
 int multiply(a, b){
 return a * b;
+}
+	
+	int array[i];
+
+	for (int [i] = 0; i <= 5; i++) {
+		int a;
+		printf("Please enter a numbers:\n ");
+		scanf("%i", array[&a]);
+
+	}
+
+	if (<#condition#>) {
+		<#statements#>
+	}
+return 0;
+
 }
 
